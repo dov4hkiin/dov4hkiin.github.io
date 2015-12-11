@@ -37,13 +37,39 @@ h2 {
 	margin-right: auto;
 }
 
-nav ul{
+nav ul {
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
+	width: 120px;
+	background-color: #ffffff;
+	position: fixed;
+	top: 0;
+	left: 0;
+}
+
+nav ul li a {
+	display: block;
+	text-decoration: none;
+	color: #000;
+	padding-left: 10px;
+	padding-top: 8px;
+	padding-bottom: 8px;
+	border-width: 1px;
+	border-style:solid;
+}
+
+nav ul li a:hover{
+	background-color: #555;
+	color: #ffffff;
 }
 
 .trinket {
 	width: 100%;
-	height: 600;
+	height: 600%;
+}
+
+.active{
+	background-color: #0385DA;
+	color: #ffffff
 }
