@@ -73,3 +73,12 @@ nav ul li a:hover{
 	background-color: #0385DA;
 	color: #ffffff
 }
+
+@media screen and (max-width: 600px) {
+	nav{
+		display: none;
+	}
+	#maincontent {
+		text-align: center;
+	}
+}
