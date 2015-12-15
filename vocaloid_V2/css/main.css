@@ -35,8 +35,8 @@ h2 {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
-	border-style: offset;
-	max-width: 50%;
+	border-style: outset;
+	max-width: 10%;
 }
 
 .center {
