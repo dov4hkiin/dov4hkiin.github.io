@@ -31,6 +31,14 @@ h2 {
 	text-align: center;
 }
 
+.icon {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border-style: offset;
+	max-width: 50%;
+}
+
 .center {
 	display: block;
 	margin-left: auto;
