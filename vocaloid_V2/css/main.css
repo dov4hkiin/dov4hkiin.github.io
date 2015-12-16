@@ -3,7 +3,7 @@ p {
 }
 
 body {
-	font-size: 1em;
+	font-size: 1.25em;
 	color: #FF00FF;
 	background: white url(../images/hatsune-miku-background.png);
 }
@@ -30,8 +30,8 @@ h2 {
 	border-color: black;
 	border-width: 4px;
 	border-radius: 50px;
-	margin-left: 30%;
-	margin-right: 30%;
+	margin-left: 40%;
+	margin-right: 40%;
 	padding-bottom: 1%;
 	padding-top: 1%;
 	background-color: #FFFFFF
@@ -60,7 +60,7 @@ nav ul {
 	margin: 0;
 	padding: 0;
 	width: 120px;
-	background-color: #ffffff;
+	background-color: #FFFFFF;
 	position: fixed;
 	top: 0;
 	left: 0;
@@ -81,7 +81,7 @@ nav ul li a {
 
 nav ul li a:hover {
 	background-color: #555;
-	color: #ffffff;
+	color: #FFFFFF;
 }
 
 .trinket {
@@ -91,7 +91,7 @@ nav ul li a:hover {
 
 .active {
 	background-color: #0385DA;
-	color: #ffffff
+	color: #FFFFFF
 }
 
 img {
