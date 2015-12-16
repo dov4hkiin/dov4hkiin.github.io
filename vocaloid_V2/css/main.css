@@ -4,7 +4,7 @@ p {
 
 body {
 	font-size: 1em;
-	color: #0035C4;
+	color: #FF00FF;
 	background: white url(../images/hatsune-miku-background.png);
 }
 
@@ -24,6 +24,7 @@ h1 {
 }
 
 h2 {
+	color: #0000FF;
 	text-align: center;
 	border-style: solid;
 	border-color: black;
